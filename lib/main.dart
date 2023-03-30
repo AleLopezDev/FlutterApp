@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter Demo'),
+          title: Text('App convertidor'),
         ),
         body: Center(
           child: Padding(
